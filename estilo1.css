@@ -1,8 +1,8 @@
 
 body{
     padding-top:8vh;/* mudando o espaço do formulario*/
-  background-image: url('../projetomanfrine/images/maos.jpg');
-  background-size: cover;
+background-image: url('../images/maos.jpg');
+    background-size: cover;
   background-position-y: -100px;
 }
 
